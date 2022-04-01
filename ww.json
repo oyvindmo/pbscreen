@@ -1,0 +1,28 @@
+{
+    "autoStart": false,
+    "fullscreen": false,
+    "lazyLoadTabs": false,
+    "websites": [
+        {
+            "url": "https://matchplay.events",
+            "duration": 30,
+            "tabReloadIntervalSeconds": 1200,
+            "zoom": 1.0
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=ch7H19SHkXE&list=PL31W94V2HVSW7ksDyZ_183rUBxiSQon75",
+            "duration": 120,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://ifpa.no/tournaments",
+            "duration": 60,
+            "tabReloadIntervalSeconds": 3600
+        },
+        {
+            "url": "https://ifpa.no/",
+            "duration": 30,
+            "tabReloadIntervalSeconds": 3600
+        }
+    ]
+}
