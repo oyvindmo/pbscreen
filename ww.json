@@ -4,7 +4,7 @@
     "lazyLoadTabs": false,
     "websites": [
         {
-            "url": "https://iscored.info",
+            "url": "https://www.iscored.info/?mode=public&user=Popbumper",
             "duration": 60,
             "tabReloadIntervalSeconds": 1200
         },
