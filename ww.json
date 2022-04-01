@@ -1,12 +1,37 @@
 {
     "autoStart": true,
     "fullscreen": true,
-    "lazyLoadTabs": false,
+    "lazyLoadTabs": true,
     "websites": [
+         {
+            "url": "https://www.youtube.com/watch?v=ch7H19SHkXE",
+            "duration": 166,
+            "tabReloadIntervalSeconds": 803
+        },
+         {
+            "url": "https://www.youtube.com/watch?v=T6vjlOZZes0",
+            "duration": 108,
+            "tabReloadIntervalSeconds": 803
+        },
         {
+            "url": "https://www.youtube.com/watch?v=ZMdKpa0c-Wc",
+            "duration": 71,
+            "tabReloadIntervalSeconds": 803
+        },
+      {
+            "url": "https://www.youtube.com/watch?v=adILIebIozo",
+            "duration": 115,
+            "tabReloadIntervalSeconds": 803
+        },
+      {
+            "url": "https://www.youtube.com/watch?v=AAPiZV18-2w",
+            "duration": 73,
+            "tabReloadIntervalSeconds": 803
+        },
+      {
             "url": "https://www.iscored.info/?mode=public&user=Popbumper",
             "duration": 60,
-            "tabReloadIntervalSeconds": 1200
+            "tabReloadIntervalSeconds": 803
         },
         {
             "url": "https://www.youtube.com/watch?v=ch7H19SHkXE&list=PL31W94V2HVSW7ksDyZ_183rUBxiSQon75",
