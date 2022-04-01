@@ -1,8 +1,13 @@
 {
-    "autoStart": false,
-    "fullscreen": false,
+    "autoStart": true,
+    "fullscreen": true,
     "lazyLoadTabs": false,
     "websites": [
+        {
+            "url": "https://iscored.info",
+            "duration": 60,
+            "tabReloadIntervalSeconds": 1200
+        },
         {
             "url": "https://matchplay.events",
             "duration": 30,
