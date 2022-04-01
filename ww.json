@@ -44,7 +44,7 @@
             "tabReloadIntervalSeconds": 3600
         },
         {
-            "url": "https://ifpa.no/",
+            "url": "https://www.ifpapinball.com/rankings/country.php",
             "duration": 30,
             "tabReloadIntervalSeconds": 3600
         }
