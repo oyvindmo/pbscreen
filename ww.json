@@ -4,49 +4,19 @@
     "lazyLoadTabs": true,
     "websites": [
          {
-            "url": "https://www.youtube.com/watch?v=ch7H19SHkXE",
-            "duration": 166,
-            "tabReloadIntervalSeconds": 863
-        },
-         {
-            "url": "https://www.youtube.com/watch?v=T6vjlOZZes0",
-            "duration": 108,
-            "tabReloadIntervalSeconds": 863
+            "url": "https://www.youtube.com/watch?v=E7XNo6LMHm8",
+            "duration": 190,
+            "tabReloadIntervalSeconds": 440
         },
         {
             "url": "https://ifpa.no/tournaments",
-            "duration": 60,
+            "duration": 30,
             "tabReloadIntervalSeconds": 3600
         },
         {
-            "url": "https://www.youtube.com/watch?v=ZMdKpa0c-Wc",
-            "duration": 71,
-            "tabReloadIntervalSeconds": 863
-        },
-      {
-            "url": "https://www.youtube.com/watch?v=adILIebIozo",
-            "duration": 115,
-            "tabReloadIntervalSeconds": 863
-        },
-      {
-            "url": "https://www.youtube.com/watch?v=AAPiZV18-2w",
-            "duration": 73,
-            "tabReloadIntervalSeconds": 863
-        },
-      {
-            "url": "https://www.iscored.info/?mode=public&user=Popbumper",
-            "duration": 60,
-            "tabReloadIntervalSeconds": 863
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=ch7H19SHkXE",
-            "duration": 120,
-            "tabReloadIntervalSeconds": 3600
-        },
-        {
-            "url": "https://ifpa.no/tournaments",
-            "duration": 60,
-            "tabReloadIntervalSeconds": 3600
+            "url": "https://www.youtube.com/watch?v=E7XNo6LMHm8",
+            "duration": 190,
+            "tabReloadIntervalSeconds": 440
         },
         {
             "url": "https://www.ifpapinball.com/rankings/country.php",
