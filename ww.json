@@ -3,7 +3,12 @@
     "fullscreen": true,
     "lazyLoadTabs": true,
     "websites": [
-         {
+        {
+            "url": "https://insider.sternpinball.com/kiosk/rxUC-iJdu-cCy",
+            "duration": 60,
+            "tabReloadIntervalSeconds": 60
+        },
+        {
             "url": "https://www.youtube.com/watch?v=E7XNo6LMHm8",
             "duration": 190,
             "tabReloadIntervalSeconds": 310
@@ -17,11 +22,7 @@
             "url": "https://www.ifpapinball.com/rankings/country.php",
             "duration": 30,
             "tabReloadIntervalSeconds": 60
-        },
-        {
-            "url": "https://insider.sternpinball.com/kiosk/rxUC-iJdu-cCy",
-            "duration": 60,
-            "tabReloadIntervalSeconds": 60
         }
+
     ]
 }
