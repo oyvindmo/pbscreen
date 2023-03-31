@@ -5,7 +5,7 @@
     "websites": [
         {
             "url": "https://insider.sternpinball.com/kiosk/KNFZ-awv-XhWM ",
-            "duration": 60,
+            "duration": 30,
             "tabReloadIntervalSeconds": 60
         },
         {
@@ -19,7 +19,7 @@
             "tabReloadIntervalSeconds": 60
         },
         {
-            "url": "https://www.ifpapinball.com/rankings/country.php",
+            "url": "https://github.com/oyvindmo/pbscreen/raw/main/turnering.png",
             "duration": 30,
             "tabReloadIntervalSeconds": 60
         }
