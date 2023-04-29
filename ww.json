@@ -14,11 +14,6 @@
             "tabReloadIntervalSeconds": 60
         },
         {
-            "url": "https://github.com/oyvindmo/pbscreen/raw/main/turnering.png",
-            "duration": 90,
-            "tabReloadIntervalSeconds": 60
-        },
-        {
             "url": "https://www.youtube.com/watch?v=E7XNo6LMHm8",
             "duration": 190,
             "tabReloadIntervalSeconds": 340
