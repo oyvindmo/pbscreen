@@ -16,7 +16,7 @@
         {
             "url": "https://www.youtube.com/watch?v=E7XNo6LMHm8",
             "duration": 190,
-            "tabReloadIntervalSeconds": 340
+            "tabReloadIntervalSeconds": 250
         }
 
     ]
