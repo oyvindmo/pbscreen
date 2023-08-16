@@ -9,6 +9,11 @@
             "tabReloadIntervalSeconds": 60
         },
         {
+            "url": "https://www.canva.com/design/DAFrE5iNrHw/n4_SnWr8HOlT2h7uHTCxoQ/view",
+            "duration": 60,
+            "tabReloadIntervalSeconds": 60
+        },
+        {
             "url": "https://ifpa.no/tournaments",
             "duration": 30,
             "tabReloadIntervalSeconds": 60
@@ -16,7 +21,7 @@
         {
             "url": "https://www.youtube.com/watch?v=E7XNo6LMHm8",
             "duration": 190,
-            "tabReloadIntervalSeconds": 250
+            "tabReloadIntervalSeconds": 310
         }
 
     ]
