@@ -4,8 +4,8 @@
     "lazyLoadTabs": true,
     "websites": [
         {
-            "url": "https://ifpa.no/",
-            "duration": 90,
+            "url": "https://insider.sternpinball.com/kiosk/jjT-iJc-vTLY?", 
+            "duration": 120,
             "tabReloadIntervalSeconds": 60
         },
         {
