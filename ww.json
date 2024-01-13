@@ -8,7 +8,13 @@
             "duration": 120,
             "tabReloadIntervalSeconds": 60
         },
-        {
+       {
+            "url": "https://raw.githubusercontent.com/oyvindmo/pbscreen/main/Work-Work%20Monthly%20-%202023H2_20240113_150349_0000.png", 
+            "duration": 60,
+            "tabReloadIntervalSeconds": 60
+        },
+        
+    {
             "url": "https://ifpa.no/tournaments",
             "duration": 60,
             "tabReloadIntervalSeconds": 60
