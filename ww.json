@@ -4,11 +4,6 @@
     "lazyLoadTabs": true,
     "websites": [
         {
-            "url": "https://insider.sternpinball.com/kiosk/jjT-iJc-vTLY?", 
-            "duration": 120,
-            "tabReloadIntervalSeconds": 120
-        },
-        {
             "url": "https://raw.githubusercontent.com/oyvindmo/pbscreen/main/life_of_a_pinball_player.jpg", 
             "duration": 30,
             "tabReloadIntervalSeconds": 1200
@@ -16,7 +11,7 @@
         {
             "url": "https://raw.githubusercontent.com/oyvindmo/pbscreen/main/turneringer.png", 
             "duration": 60,
-            "tabReloadIntervalSeconds": 60
+            "tabReloadIntervalSeconds": 1200
         },
         
     {
@@ -27,7 +22,7 @@
         {
             "url": "https://www.youtube.com/watch?v=E7XNo6LMHm8",
             "duration": 190,
-            "tabReloadIntervalSeconds": 460
+            "tabReloadIntervalSeconds": 340
         }
 
     ]
